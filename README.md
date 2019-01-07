@@ -11,3 +11,8 @@ The files .dist are used to set-up distances for the Needleman algorithm, atiam-
 The result of long computations are saved in Data/ you can easily open them with pickle.
 
 Finaly, Rapport/ contains a pdf report in french and the .tex source, in wich we explain the methology and design choices. 
+
+## Licence
+
+Everything in this repository is free, you can use it for any purpose as long as you cite the repository somewhere.
+For any request or question, feel free to contact me.
