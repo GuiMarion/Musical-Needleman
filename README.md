@@ -8,6 +8,6 @@ You can find the code in atiam-fpa.py, the biggest functions are in functions.py
 
 The files .dist are used to set-up distances for the Needleman algorithm, atiam-fpa.pkl contain some title and composers name, atiam-fpa/ some midi files to work with.
 
-The result of long computations are saved in Data/ you wan easily open them with pickle.
+The result of long computations are saved in Data/ you can easily open them with pickle.
 
-Finaly Rapport/ contain a pdf report in french and the .tex source, in wich we explain the methology and design choices. 
+Finaly, Rapport/ contains a pdf report in french and the .tex source, in wich we explain the methology and design choices. 
